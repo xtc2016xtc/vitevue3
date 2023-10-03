@@ -1,0 +1,14 @@
+进入项目目录：
+    vue脚手架构建命令：npm install -g @vue/cli 
+    Vue构建命令：
+        npm init vue@latest & vue create my-app
+    React全局脚手架命令：npm install -g create-react-app
+    React创建命令{vite}
+        npm create vite@latest my-vite-app
+		npm init vite@latest
+        cd my-vite-app
+        npm install
+        npm run dev
+    创建路由：
+        npm install vue-router@4
+        npm install axios:创建axios
